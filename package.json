@@ -1,5 +1,5 @@
 {
-  "name": "meaningful-string",
+  "name": "meaningful-string-alpha",
   "version": "1.2.1",
   "description": "This is going to provide the random meaningful string using animal names followed by adjective followed by numbers. Additional to that, you can generate random shortId using custom options",
   "main": "index.js",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mrmalhotra/meaningful-string.git"
+    "url": "git+https://github.com/alpha-group/meaningful-string.git"
   },
   "keywords": [
     "meaningful-string",
@@ -30,12 +30,12 @@
     "security",
     "randomized"
   ],
-  "author": "Deepak Kumar",
+  "author": "Deepak Kumar, Harris Novick",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mrmalhotra/meaningful-string/issues"
+    "url": "https://github.com/alpha-group/meaningful-string/issues"
   },
-  "homepage": "https://github.com/mrmalhotra/meaningful-string#readme",
+  "homepage": "https://github.com/alpha-group/meaningful-string#readme",
   "devDependencies": {
     "chai": "^4.1.2",
     "mocha": "^5.0.0"
