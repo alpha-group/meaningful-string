@@ -104,15 +104,10 @@ meaningful = (object) => {
   order.push(chooseEmoji);
   order.push(chooseNumber);
 
-  console.log(order);
-
   let res = order.join(joinString);
   if (res.length > maxLength) {
-    console.log(maxLength);
-    console.log(res);
     return meaningful(object);
   } else {
-    console.log(res);
     return res;
   }
 };
